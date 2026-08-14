@@ -2,7 +2,7 @@
 
 一个基于梅花易数理法的交互式起卦辅助页面。输入三个数字，工具自动完成起卦计算、变卦推演，并展示卦辞、爻辞与象传原文，供研习者参考使用。
 ## 下载
-### [Release v0.01 - 梅花易数起卦辅助工具](https://github.com/user-attachments/files/31031091/index.html)
+### [Release v0.01 - 梅花易数起卦辅助工具](https://github.com/penghardy/plum-blossom-hexagram/releases/download/v0.01/plum.blossom.hexagram.v0.01.html)
 ## 功能特点
 
 - **起卦计算**：输入三个数字，自动按梅花易数规则计算上卦、下卦与动爻，生成本卦与变卦。
