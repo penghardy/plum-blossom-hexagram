@@ -1,8 +1,15 @@
 ﻿# 梅花易数起卦辅助工具 / Plum Blossom Hexagram Calculator
 
 一个基于梅花易数理法的交互式起卦辅助页面。输入三个数字，工具自动完成起卦计算、变卦推演，并展示卦辞、爻辞与象传原文，供研习者参考使用。
+
+## 在线预览
+
+[点击这里访问在线版本](https://penghardy.github.io/plum-blossom-hexagram/)
+
 ## 下载
+
 ### [Release v0.01 - 梅花易数起卦辅助工具](https://github.com/penghardy/plum-blossom-hexagram/releases/download/v0.01/plum.blossom.hexagram.v0.01.html)
+
 ## 功能特点
 
 - **起卦计算**：输入三个数字，自动按梅花易数规则计算上卦、下卦与动爻，生成本卦与变卦。
@@ -52,10 +59,6 @@
 - 卦辞、爻辞均引用自《易经》通行本，象传取自《易传》。原文展示仅供研习者自行参考。
 - 若输入非数字或为空，页面会提示校验错误。
 - 建议结合《梅花易数》原著及专业研习者的指导进行理解和运用。
-
-## 在线预览
-
-[点击这里访问在线版本](https://penghardy.github.io/plum-blossom-hexagram/)
 
 ## 许可证
 
